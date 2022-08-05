@@ -2,5 +2,5 @@
 
 {
   const fruits = ["りんご", "バナナ", "みかん"];
-  console.log(fruits[1]);
+  console.log(fruits[0]);
 }
