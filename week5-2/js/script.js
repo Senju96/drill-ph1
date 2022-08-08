@@ -16,8 +16,8 @@
   const c = () => {
     const f = 'こんばんは'
     console.log(f);
-    a()
+    a();
   }
+  
+  a()
 }
-
-// a()
