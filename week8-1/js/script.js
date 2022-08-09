@@ -24,5 +24,3 @@ const sumScores = (scores) => {
 totalButton.addEventListener('click', () => {
   totalElement.innerHTML = sumScores(scores)
 })
-
-
